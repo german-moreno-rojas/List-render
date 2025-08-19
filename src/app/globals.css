@@ -25,7 +25,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Opcional: un contenedor tipo grid para las listas */
+
 .container {
   @apply grid gap-6 md:grid-cols-2 lg:grid-cols-3;
 }
